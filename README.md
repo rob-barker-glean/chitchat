@@ -1,6 +1,6 @@
 # Glean ChitChat Client
 
-![Static Badge](https://img.shields.io/badge/Glean%20API-green?style=flat)
+![Static Badge](https://img.shields.io/badge/Glean-Chat_API-green?style=flat)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=flat)
 
